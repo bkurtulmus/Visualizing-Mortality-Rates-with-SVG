@@ -1,0 +1,30 @@
+.axis {
+    fill: none;
+    stroke: black;
+    stroke-width: 2;
+}
+
+.dotted-axis {
+    fill: none;
+    stroke: black;
+    stroke-width: 1;
+    stroke-dasharray: 5;
+}
+
+.y-label {
+    font-size: 16px;
+}
+
+.legend {
+    font-size: 16px;
+}
+
+.axis-ticks {
+    stroke: black;
+    stroke-width: 2;
+}
+
+.bar {
+    fill: royalblue;
+}
+
