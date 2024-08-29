@@ -1,6 +1,6 @@
 # Visualizing Mortality Rates with SVG
 
-This repository contains the HTML and SVG code for a data visualization project created as part of the **CS 405** course at Sabanci University. The project focuses on visualizing the mortality rate for people over 65 years old in Turkey from 2009 to 2022.
+This repository contains the HTML and SVG code for a data visualization project created as part of the **Computer Graphics** course at Sabanci University. The project focuses on visualizing the mortality rate for people over 65 years old in Turkey from 2009 to 2022.
 
 ## Project Overview
 
